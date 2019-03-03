@@ -18,8 +18,7 @@ high ： 提高题
 ## others ： 
 
 
-LeetCode地址 ： (前往力扣)[https://leetcode-cn.com/submissions/#/1]
-
+LeetCode地址 ： [前往力扣](https://leetcode-cn.com/submissions/#/1)
 
 
 
