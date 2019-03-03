@@ -17,6 +17,8 @@ high ： 提高题
 
 ## others ： 
 
+### 一些奇怪的算法
+
 
 LeetCode地址 ： [前往力扣](https://leetcode-cn.com/submissions/#/1)
 
