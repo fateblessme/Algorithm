@@ -12,8 +12,8 @@ import java.util.List;
  * 给一个排序好的数组和区间，
  * 找出数组中不在区间内的数字
  * <p>
- * 例：[0,1,3,75],0,99
- * retrun ["2","4->74","76->99"]
+ * 例：[0,1,3,50,75],0,99
+ * retrun [2, 4->49, 51->74, 75->99]
  */
 
 public class QuestionMissingRanges {
@@ -61,5 +61,4 @@ public class QuestionMissingRanges {
         List<String> rst = findMissingRanges(nums, lower, upper);
         System.out.println(rst.toString());
     }
-
 }
