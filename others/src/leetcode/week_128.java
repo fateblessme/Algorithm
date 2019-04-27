@@ -12,7 +12,8 @@ public class week_128 {
      */
     static int bitwiseComplement(int n) {
         int i;
-        for (i = 2; i <= n; i <<= 1) ;
+        for (i = 2; i <= n; i <<= 1) {
+        }
         return i - 1 - n;
     }
 

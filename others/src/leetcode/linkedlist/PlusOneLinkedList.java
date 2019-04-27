@@ -1,4 +1,4 @@
-package com.leetcode;
+package leetcode.linkedlist;
 
 /**
  * https://www.bilibili.com/video/av48277621/?p=4

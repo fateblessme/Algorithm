@@ -1,4 +1,4 @@
-package com.leetcode;
+package leetcode.tree;
 
 /**
  * Tree 练习

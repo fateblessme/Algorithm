@@ -1,4 +1,4 @@
-package com.leetcode;
+package leetcode.array;
 
 /**
  * https://www.bilibili.com/video/av48277621
