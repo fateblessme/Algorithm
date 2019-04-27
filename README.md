@@ -14,13 +14,16 @@ high ： 提高题
 ## comic ： 漫画算法笔记
 
 
-
 ## others ： 
 
 ### 一些奇怪的算法
 
+### [leetCode笔记](https://github.com/MrTallon/Algorithm/tree/master/others/src/leetcode)
 
-LeetCode地址 ： [前往力扣](https://leetcode-cn.com/submissions/#/1)
+
+
+
+LeetCode地址 ： [我的力扣](https://leetcode-cn.com/submissions/#/1)
 
 
 
