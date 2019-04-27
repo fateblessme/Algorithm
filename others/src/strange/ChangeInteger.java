@@ -1,4 +1,4 @@
-package com.strange;
+package strange;
 
 import java.lang.reflect.Field;
 
